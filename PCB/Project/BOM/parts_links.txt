@@ -1,0 +1,20 @@
+Silnik -> https://botland.com.pl/silniki-krokowe/6424-silnik-krokowy-jk42hs40-0404-200-krokowobr-12v04a04nm-5904422334604.html
+
+Rezystory:
+	- current sens -> https://www.mouser.pl/ProductDetail/Panasonic/ERJ-3RQFR39V?qs=gMLvI6OBCCUjS4zPvE1PhA%3D%3D
+	- inne -> https://www.mouser.pl/ProductDetail/Panasonic/ERJ-3RBD1002V?qs=k5Usg7mMyeBXrl2QTYaIdA%3D%3D
+	       -> https://www.mouser.pl/ProductDetail/Panasonic/ERJ-3EKF1600V?qs=sGAEpiMZZMtlubZbdhIBIEpCgapuOP%252Bo7%2FT0Drv4Tyo%3D
+
+Kondensatory:
+	- elektrolityczny -> https://www.mouser.pl/ProductDetail/KYOCERA-AVX/RPF0508100M035K?qs=Y0Uzf4wQF3mbIyqNmXC0oQ%3D%3D
+	- ceramiczne -> https://www.mouser.pl/ProductDetail/Murata-Electronics/GRM155R61H104KE19D?qs=sGAEpiMZZMsh%252B1woXyUXj1sgm%252BdNxBysNLRd4qUviQU%3D
+		     -> https://www.mouser.pl/ProductDetail/Murata-Electronics/GRM155R61H334ME01J?qs=sGAEpiMZZMsh%252B1woXyUXjwyVslzaSs8pKbLBz0cTVh0%3D
+
+IC:
+	- liniowy regulator napięcia -> https://www.mouser.pl/ProductDetail/Texas-Instruments/UA78L05AIPKG3?qs=0O%2FZFlpUpJV8YShL87eVNA%3D%3D
+	- sterownik -> https://www.mouser.pl/ProductDetail/Texas-Instruments/DRV8847RTER?qs=9r4v7xj2LnkPMMzhJpm8xw%3D%3D 
+
+Pozostałe:
+	- Dioda LED -> https://www.mouser.pl/ProductDetail/ams-OSRAM/LS-Q976.01-N1Q2-1?qs=HoCaDK9Nz5ctGgaETs5C5Q%3D%3D
+	- Terminale -> https://www.mouser.pl/ProductDetail/CUI-Devices/TB002-500-02BE?qs=sGAEpiMZZMvPvGwLNS671%2FDanv8Jav06GLzBJNFgaUR810GMR9EQNw%3D%3D
+		    -> https://www.mouser.pl/ProductDetail/TE-Connectivity/284392-2?qs=sGAEpiMZZMvPvGwLNS671yKZerEG2YKyEoHUpJ2AQDc%3D
